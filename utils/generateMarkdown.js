@@ -38,12 +38,7 @@ function generateMarkdown(data) {
 
   ${data.test}
   
-  
-  ## Credits
-
-  ${data.credits}
-  
-  
+   
   ## License
   
   ${data.license}
